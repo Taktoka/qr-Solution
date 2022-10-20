@@ -29,21 +29,25 @@ a {
   flex-direction: column;
   justify-content: center;
 }
-@media (max-width: 576px) {
-  .code-card {
-    max-width: 250px;
-  }
-}
+
 .code-card img {
   max-width: 100%;
   border-radius: 8px;
 }
 .code-card h1 {
-  font-size: 20px;
+  font-size: 23px;
   color: var(--Dark-blue);
   letter-spacing: 0.5px;
 }
 .code-card p {
   font-size: 15px;
   color: var(--Grayish-blue);
+  
+}@media (max-width: 576px) {
+  .code-card h1 {
+  font-size: 21px;
+   }
+  .code-card {
+    max-width: 250px;
+  }
 }
