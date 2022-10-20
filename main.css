@@ -15,12 +15,13 @@ a {
   font-family: "Outfit", sans-serif;
   background-color: var(--Light-gray);
   margin: 0% !important;
+  padding:100px 0;
 }
 
 .code-card {
   width: 350px;
   display: flex;
-  margin: 100px auto 30px;
+  margin: auto ;
   background-color: var(--White);
   padding: 20px;
   border-radius: 8px;
