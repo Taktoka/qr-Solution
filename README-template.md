@@ -6,14 +6,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](//http)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
 
-[./design/screenshot.png]
+[Screenshot](./design/screenshot.png)
 
 ### Links
 
