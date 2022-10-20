@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Taktoka/qr-solution.git)](https://github.com/Taktoka/qr-solution.git)
-- Live Site URL: [Add live site URL here](https://taktoka.github.io/qr-solution/)](https://your-live-site-url.com](https://taktoka.github.io/qr-solution/)
+- Solution URL: [(https://github.com/Taktoka/qr-solution.git)](https://github.com/Taktoka/qr-solution.git)
+- Live Site URL: [(https://taktoka.github.io/qr-solution/)](https://taktoka.github.io/qr-solution/)
 
 ## My process
 
