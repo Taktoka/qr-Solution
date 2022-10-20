@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](./design/screenshot.png)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,12 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-[Screenshot](./design/screenshot.png)
+![](./design/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Taktoka/qr-solution.git)](https://github.com/Taktoka/qr-solution.git)
+- Live Site URL: [Add live site URL here](https://taktoka.github.io/qr-solution/)](https://your-live-site-url.com](https://taktoka.github.io/qr-solution/)
 
 ## My process
 
