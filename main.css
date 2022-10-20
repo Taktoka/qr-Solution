@@ -5,7 +5,11 @@
   --Grayish-blue: hsl(220, 15%, 55%);
   --Dark-blue: hsl(218, 44%, 22%);
 }
-body {
+
+a {
+  text-decoration: none;
+}
+.card {
   font-size: 11px;
   text-align: center;
   font-family: "Outfit", sans-serif;
@@ -13,11 +17,8 @@ body {
   height: 100vh;
   margin: 0% !important;
 }
-a {
-  text-decoration: none;
-}
 
-.card {
+.code-card {
   width: 350px;
   display: flex;
   margin: 100px auto 30px;
@@ -29,20 +30,20 @@ a {
   justify-content: center;
 }
 @media (max-width: 576px) {
-  .card {
+  .code-card {
     max-width: 250px;
   }
 }
-.card img {
+.code-card img {
   max-width: 100%;
   border-radius: 8px;
 }
-.card h1 {
+.code-card h1 {
   font-size: 20px;
   color: var(--Dark-blue);
   letter-spacing: 0.5px;
 }
-.card p {
+.code-card p {
   font-size: 15px;
   color: var(--Grayish-blue);
 }
